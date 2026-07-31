@@ -12,7 +12,9 @@ My_ClaudeCode_projects/
 │   ├── Mysql_DDL查询.sql         # DDL 数据定义语言
 │   ├── Mysql_DQL基本查询.sql      # DQL 数据查询语言
 │   ├── Mysql_多表操作.sql         # 多表关系、外键约束、连接查询、子查询
-│   └── 数据库基础语法.sql         # 数据库基础语法
+|   └── 数据库基础语法.sql         # 数据库基础语法
+|   |__Mysql.多表联合查询
+|   |__Mysql.多表操作_嵌套查询
 ├── Python/                       # Python 学习与练习
 │   ├── 番茄钟.py                  # 番茄钟桌面应用（独立版）
 │   ├── 面向对象/                  # 面向对象编程学习
